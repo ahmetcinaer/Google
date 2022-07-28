@@ -1,0 +1,43 @@
+.body {
+  background-color: #fff;
+  text-align: center;
+  margin: 0 0 3rem 0;
+  width: auto;
+  height: auto;
+}
+
+/****************INFO****************/
+.info {
+  width: auto;
+  text-align: center;
+}
+/****************SEARCH****************/
+.search {
+  background-color: #eee;
+  height: 6rem;
+}
+/***************FIRST*****************/
+.first {
+  background-color: #7ee5da;
+  display: inline-flex;
+  flex-direction: column;
+  width: 25%;
+}
+
+/***************SECOND*****************/
+.second {
+  background-color: #70ccc2;
+  display: inline-flex;
+  flex-direction: column;
+  width: 20%;
+}
+/***************THRIRD*****************/
+.third {
+  background-color: #62b3aa;
+  display: inline-flex;
+  flex-direction: column;
+  width: 20%;
+}
+.footer {
+  text-align: center;
+}
